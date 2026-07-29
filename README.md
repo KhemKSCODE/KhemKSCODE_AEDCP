@@ -24,6 +24,8 @@ If you select Yes on 2 Days and No on 5 Days. Answer You have exercised for 2 Da
 
 If you select Yes on more 2 Days. Answer You have exercised for (more 2 Days) Days in the week. 
 
+![AEDCP_PIC2.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCP_PIC2.jpg)
+
 
 
 
