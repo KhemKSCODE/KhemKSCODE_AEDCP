@@ -4,9 +4,13 @@
 
 In the mini project. I built an Amount of Exercise Days Counting Program to count Exercise Days with 7 Questions in 7 Days. The mini project is written in Python and uses knowledge of output, variables, and conditions to create the project.
 
+![AEDCPpic1.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCPpic1.jpg)
+
 # 2. How program work?
 
 When you run the script in the terminal. Questions will appear. They will ask you about when you exercise in 7 days. You have 2 answers: Yes or No.
+
+![AEDCPpic2.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCPpic2.jpg)
 
 # 3. Result
 
@@ -21,3 +25,6 @@ If you select Yes on 1 Days and No on 6 Days. Answer You have exercised for a Da
 If you select Yes on 2 Days and No on 5 Days. Answer You have exercised for 2 Days in the week. You are well and You can do it. This is the minimum of the exercise in the week.
 
 If you select Yes on more 2 Days. Answer You have exercised for (more 2 Days) Days in the week. 
+
+![AEDCPpic3.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCPpic3.jpg)
+
