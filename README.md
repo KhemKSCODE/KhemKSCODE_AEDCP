@@ -8,7 +8,7 @@ In the mini project. I built an Amount of Exercise Days Counting Program to coun
 
 When you run the script in the terminal. Questions will appear. They will ask you about when you exercise in 7 days. You have 2 answers: Yes or No.
 
-[AEDCP_PIC1.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCP_PIC1.jpg)
+![AEDCP_PIC1.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCP_PIC1.jpg)
 
 # 3. Result
 
