@@ -4,7 +4,7 @@
 
     In the mini project. I built an Amount of Exercise Days Counting Program to count Exercise Days with 7 Questions in 7 Days. The mini project is written in Python and uses knowledge of output, variables, and conditions to create the project.
 
-![ACEDCP_pic1.jpg]()
+![ACEDCP_pic1.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCP_pic1.jpg)
 
 # 2. How program work?
 
