@@ -27,3 +27,8 @@
 
     If you select Yes on more 2 Days.
     Answer You have exercised for (more 2 Days) Days in the week. 
+
+![ACEDCP_pic2.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCP_pic2.jpg)
+![ACEDCP_pic3.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCP_pic3.jpg)
+![ACEDCP_pic4.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCP_pic4.jpg)
+![ACEDCP_pic5.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCP_pic5.jpg)
