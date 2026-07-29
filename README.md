@@ -4,6 +4,8 @@
 
     In the mini project. I built an Amount of Exercise Days Counting Program to count Exercise Days with 7 Questions in 7 Days. The mini project is written in Python and uses knowledge of output, variables, and conditions to create the project.
 
+![ACEDCP_pic1.jpg]()
+
 # 2. How program work?
 
     When you run the script in the terminal. Questions will appear. They will ask you about when you exercise in 7 days. You have 2 answers: Yes or No.
