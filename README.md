@@ -32,5 +32,4 @@ If you select Yes on more 2 Days. Answer You have exercised for (more 2 Days) Da
 
 Blog: https://khemkscode.blogspot.com/2026/07/mini-project-amount-of-exercise-days.html
 
-Clip: https://youtu.be/yFIYTDHyZWA?si=lCyTTXWzjIDlrRcH
-
+Clip: https://youtu.be/ArUr_IqwQ2g
