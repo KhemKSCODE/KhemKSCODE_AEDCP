@@ -28,8 +28,3 @@ If you select Yes on more 2 Days. Answer You have exercised for (more 2 Days) Da
 
 ![AEDCPpic3.jpg](https://github.com/KhemKSCODE/KhemKSCODE_AEDCP/blob/main/AEDCPpic3.jpg)
 
-# 4. Website and Clip
-
-Blog: https://khemkscode.blogspot.com/2026/07/mini-project-amount-of-exercise-days.html
-
-Clip: https://youtu.be/ArUr_IqwQ2g
